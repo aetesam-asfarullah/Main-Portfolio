@@ -1,7 +1,7 @@
 // Typing Animation for Hero Title and Roles
 const heroTitle = document.querySelector('.hero-content h1');
 const typedTextElement = document.querySelector('.typed-text');
-const greetingText = "Hi, I'm Maldini";
+const greetingText = "Hi, I'm Aetesam Asfar";
 const rolesArray = ['Web Developer', 'Designer', 'Problem Solver'];
 let charIndex = 0;
 let roleIndex = 0;
